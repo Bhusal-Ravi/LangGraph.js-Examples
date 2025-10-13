@@ -1,0 +1,22 @@
+{
+  "name": "dot",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@langchain/core": "^0.3.78",
+    "@langchain/groq": "^0.2.4",
+    "@langchain/langgraph": "^0.4.9",
+    "dotenv": "^17.2.3",
+    "jod": "^0.0.0",
+    "langchain": "^0.3.35",
+    "zod": "^4.1.12"
+  }
+}
