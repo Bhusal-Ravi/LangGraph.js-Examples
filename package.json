@@ -15,9 +15,13 @@
     "@langchain/core": "^0.3.78",
     "@langchain/groq": "^0.2.4",
     "@langchain/langgraph": "^0.4.9",
+    "@langchain/langgraph-checkpoint-sqlite": "^1.0.0",
+    "cors": "^2.8.5",
     "dotenv": "^17.2.3",
+    "express": "^5.1.0",
     "jod": "^0.0.0",
     "langchain": "^0.3.35",
+    "sqlite3": "^5.1.7",
     "zod": "^4.1.12"
   }
 }
